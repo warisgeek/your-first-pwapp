@@ -3,8 +3,6 @@
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 code lab from Google.
 
-This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/your-first-pwapp/issues). Thanks!
-
 ## What you’ll learn
 * How to design and construct an app using the “app shell” method
 * How to make your app work offline
