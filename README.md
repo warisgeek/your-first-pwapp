@@ -11,12 +11,13 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 * How to store data for use offline later
 
 ## What you’ll need
-* Chrome 52 or above, though any browser that supports service workers and `cache.addAll()` will work
-* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), or use your own web server of choice.
-* The [sample code](https://github.com/googlecodelabs/your-first-pwapp/archive/master.zip)
-* A text editor
 * Basic knowledge of HTML, CSS and JavaScript
 * (Optional) Node is required in the last step to deploy to Firebase
 
+# Progressive Web Apps in Microsoft Edge
+* Open Edge 
+* Type this in URL "about:flags"
+* Make sure this "Enable service workers" should be checked. Otherwise service worker will not work.
 
-# Demo https://pwatest-e20a1.firebaseapp.com/
+# Demo 
+https://pwatest-e20a1.firebaseapp.com/
